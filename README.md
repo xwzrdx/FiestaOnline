@@ -19,6 +19,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Whisper Chat (Including player offline check, doesn't allow whispers, blocked player check)
 
 # To Do
+* Tutorial/Onboarding "Baby Steps" Quest chain
 * Account already logged in
 * Banned account
 * Return to Server Select
