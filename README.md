@@ -16,14 +16,17 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Game Options Save & Load
 * Player Movement
 * Save & Load Spawn Positions on login/logout
+* Whisper Chat (Including player offline check, doesn't allow whispers, blocked player check)
 
 # To Do
 * Account already logged in
 * Banned account
 * Return to Server Select
 * Return to Character Select
-* Chat
-* Whisper
+* Zone Chat
+* Guild Chat
+* Party Chat
+* Invite to Party
 * Friends List
 * Add Friend
 * Guilds
@@ -40,6 +43,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/e50ec9bb-e0d8-4291-94cc-4d1631051f47" />
 <img width="1599" height="898" alt="image" src="https://github.com/user-attachments/assets/e297cef2-8972-43f8-a66e-52f14722875f" />
 <img width="867" height="702" alt="image" src="https://github.com/user-attachments/assets/e4011649-d258-4b4c-91d0-cc1655eb5252" />
+<img width="662" height="142" alt="image" src="https://github.com/user-attachments/assets/55de7f25-b1e4-4ce1-8ac3-c9ec9f8aae5d" />
 
 
 ``Discord: wzrd0001``
