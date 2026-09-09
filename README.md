@@ -6,7 +6,11 @@ My first Server Emulator for an MMORPG. Should be fun!
 
 
 # Done
-* Account validation
+* Account validation (ID & Password is valid/exists)
+* Character Nickname validation (nickname already exists)
+* Create Character
+* Character Load/Save
+* Character Selection Screen
 * Server Selection
 
 
@@ -20,6 +24,8 @@ My first Server Emulator for an MMORPG. Should be fun!
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/6603ec35-c62a-4dfb-9535-482beaa81b94" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2f85c9bc-3db3-44ce-a2da-170098c82659" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/1ae17be8-8bd6-4f1e-a83e-7d6e3da2cd31" />
+<img width="1599" height="897" alt="image" src="https://github.com/user-attachments/assets/9625cb4e-d399-450f-8825-6135c19c2245" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/e50ec9bb-e0d8-4291-94cc-4d1631051f47" />
 
 
 ``Discord: wzrd0001``
