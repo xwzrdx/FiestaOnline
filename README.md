@@ -18,7 +18,8 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Save & Load Spawn Positions on login/logout
 
 # To Do
-* Fuckin' everythin'.
+* Account already logged in
+* Banned account
 * Return to Server Select
 * Return to Character Select
 * Chat
