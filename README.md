@@ -28,7 +28,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Add Friend
 * Guilds
 * Quests
-
+* ``.Shn`` Archive Unpacker/Repacker
 
 # Screenshots
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f9d9ef4c-ab4b-438f-9b62-cba172a8a01b" />
