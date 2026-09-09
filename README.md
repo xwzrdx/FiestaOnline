@@ -12,10 +12,21 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Character Load/Save
 * Character Selection Screen
 * Server Selection
-
+* Roumen World
+* Game Options Save & Load
+* Player Movement
+* Save & Load Spawn Positions on login/logout
 
 # To Do
 * Fuckin' everythin'.
+* Return to Server Select
+* Return to Character Select
+* Chat
+* Whisper
+* Friends List
+* Add Friend
+* Guilds
+* Quests
 
 
 # Screenshots
@@ -27,6 +38,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 <img width="1599" height="897" alt="image" src="https://github.com/user-attachments/assets/9625cb4e-d399-450f-8825-6135c19c2245" />
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/e50ec9bb-e0d8-4291-94cc-4d1631051f47" />
 <img width="1599" height="898" alt="image" src="https://github.com/user-attachments/assets/e297cef2-8972-43f8-a66e-52f14722875f" />
+<img width="867" height="702" alt="image" src="https://github.com/user-attachments/assets/e4011649-d258-4b4c-91d0-cc1655eb5252" />
 
 
 ``Discord: wzrd0001``
