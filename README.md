@@ -4,8 +4,8 @@ My first Server Emulator for an MMORPG. Should be fun!
 
 
 # Done
-Account validation
-Server Selection
+* Account validation
+* Server Selection
 
 
 # To Do
