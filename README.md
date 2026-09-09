@@ -1,7 +1,7 @@
 # FiestaOnline
 My first Server Emulator for an MMORPG. Should be fun!
 
-2026 Steam Client Ver. ``9.7.5``
+2026 Steam Client Ver. ``10.6.3``
 
 
 
