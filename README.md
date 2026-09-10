@@ -22,6 +22,8 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Equipping Gear (level checked)
 * Buying Gear (Level checked)
 * Inventory (Character based)
+* Quickbar
+* Soul Stones (HP & SP)
 
 # To Do
 * Tutorial/Onboarding "Baby Steps" Quest chain
