@@ -19,7 +19,9 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Whisper Chat (Including player offline check, doesn't allow whispers, blocked player check)
 * ``.Shn`` Archive Unpacker/Repacker
 * Character based Currencies
-
+* Equipping Gear (level checked)
+* Buying Gear (Level checked)
+* Inventory (Character based)
 
 # To Do
 * Tutorial/Onboarding "Baby Steps" Quest chain
@@ -36,8 +38,6 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Guilds
 * Quests
 * Mark non-class items unavailable for purchase
-* Buy stuff
-* Inventory (Character based)
 * Exp from Mob Kills
 * Stats (Character based)
 * Change players options to be account ID based not Character ID
