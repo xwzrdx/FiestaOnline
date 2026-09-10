@@ -18,6 +18,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Save & Load Spawn Positions on login/logout
 * Whisper Chat (Including player offline check, doesn't allow whispers, blocked player check)
 * ``.Shn`` Archive Unpacker/Repacker
+* Character based Currencies
 
 
 # To Do
@@ -38,7 +39,6 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Buy stuff
 * Inventory (Character based)
 * Exp from Mob Kills
-* All the Currencies (Character based)
 * Stats (Character based)
 * Change players options to be account ID based not Character ID
 * Trade
