@@ -1,4 +1,4 @@
-# FiestaOnline
+# Fiesta Online: Legels Siege
 My first Server Emulator for an MMORPG. Should be fun!
 
 2026 Steam Client Ver. ``10.6.3``
@@ -17,6 +17,8 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Player Movement
 * Save & Load Spawn Positions on login/logout
 * Whisper Chat (Including player offline check, doesn't allow whispers, blocked player check)
+* ``.Shn`` Archive Unpacker/Repacker
+
 
 # To Do
 * Tutorial/Onboarding "Baby Steps" Quest chain
@@ -32,7 +34,15 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Add Friend
 * Guilds
 * Quests
-* ``.Shn`` Archive Unpacker/Repacker
+* Mark non-class items unavailable for purchase
+* Buy stuff
+* Inventory (Character based)
+* Exp from Mob Kills
+* All the Currencies (Character based)
+* Stats (Character based)
+* Change players options to be account ID based not Character ID
+
+
 
 # Screenshots
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f9d9ef4c-ab4b-438f-9b62-cba172a8a01b" />
