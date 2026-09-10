@@ -41,7 +41,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * All the Currencies (Character based)
 * Stats (Character based)
 * Change players options to be account ID based not Character ID
-
+* Trade
 
 
 # Screenshots
