@@ -57,6 +57,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 <img width="662" height="142" alt="image" src="https://github.com/user-attachments/assets/55de7f25-b1e4-4ce1-8ac3-c9ec9f8aae5d" />
 <img width="997" height="781" alt="image" src="https://github.com/user-attachments/assets/a37afe73-fa20-41c5-95e3-60e231de7e31" />
 <img width="987" height="785" alt="image" src="https://github.com/user-attachments/assets/1abd788c-70db-4cc8-af70-c16f5b2e8827" />
+<img width="380" height="476" alt="image" src="https://github.com/user-attachments/assets/d4d39f6f-43fb-4f7f-8ab4-3ff4ebcfcd3d" />
 
 
 ``Discord: wzrd0001``
