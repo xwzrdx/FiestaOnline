@@ -27,7 +27,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * GM Chat
 * Mob Health
 * Skills/Abilities
-
+* Mini House Resting (HP & SP regen)
 
 # To Do
 * Tutorial/Onboarding "Baby Steps" Quest chain
