@@ -26,6 +26,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Soul Stones (HP & SP)
 * GM Chat
 * Mob Health
+* Mob Retaliation
 * Skills/Abilities
 * Mini House Resting (HP & SP regen)
 
