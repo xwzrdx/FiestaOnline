@@ -48,7 +48,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Trade
 * Blocked player list
 * Spawn Mobs & NPCs in their respective areas
-* Damage Formula & Combat
+* Damage Formula & Combat Stats (Misses, Crit Chance, Crit Damage, Defense/Armor, etc.)
 
 # Screenshots
 <img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/f9d9ef4c-ab4b-438f-9b62-cba172a8a01b" />
