@@ -25,6 +25,7 @@ My first Server Emulator for an MMORPG. Should be fun!
 * Quickbar
 * Soul Stones (HP & SP)
 * GM Chat
+* Mob Health
 
 # To Do
 * Tutorial/Onboarding "Baby Steps" Quest chain
